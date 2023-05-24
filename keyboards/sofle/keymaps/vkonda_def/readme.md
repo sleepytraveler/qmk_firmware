@@ -1,13 +1,15 @@
-![SofleKeyboard default keymap](https://github.com/josefadamcik/SofleKeyboard/raw/master/Images/soflekeyboard.png)
-![SofleKeyboard adjust layer](https://github.com/josefadamcik/SofleKeyboard/raw/master/Images/soflekeyboard_layout_adjust.png)
+# Custom keymap for Sofle Keyboard
 
+There are a few modifications made from default Sofle keyboard layout:
 
-# Default keymap for Sofle Keyboard
+- ModTap behavior enabled
+  - Behavior modifications to enable ModTap to work better
+- = and + on the right hand side
+- ^ and & switched from above symbols to left hand side
+- Added MO(_RAI´SE) and MO(_LOWER) to both halves
+- OLED support disabled
 
-Layout in [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/76efb423a46cbbea75465cb468eef7ff) and [adjust layer](http://www.keyboard-layout-editor.com/#/gists/4bcf66f922cfd54da20ba04905d56bd4)
-
-
-Features:
+Features from default layout:
 
 - Symmetric modifiers (CMD/Super, Alt/Opt, Ctrl, Shift)
 - Various modes, can be switched (using Adjust layer and the selected one is stored in EEPROM.
